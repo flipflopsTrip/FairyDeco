@@ -1,7 +1,7 @@
 # <center><img src="img/logoonlybook.png"  width="90"  height="75" /></center> 동꾸 (동화 꾸미기) 
 ### 동꾸(동화 꾸미기)는 아이가 직접 만들어가는 AI 동화 창작 서비스입니다.
 
-<center>![동화꾸미기메인1.gif](img/동화꾸미기메인1.gif)</center>
+<center><img src="img/동화꾸미기메인1.gif" /></center
 
 
 
@@ -100,11 +100,7 @@
 
 ### Infra
 
-<<<<<<< HEAD
-|<img src="../img/Nginx.svg" width="70" height="70">|<img src="../img/Jenkins.png" width="70" height="70">|<img src="../img/AWS EC2.jpg" width="70" height="70">|<img src="../img/Docker.png" width="70" height="70">|
-=======
-|<img src="img/Nginx.png" width="70" height="70">|<img src="img/Jenkins.png" width="70" height="70">|<img src="img/AWS EC2.jpg" width="70" height="70">|<img src="img/Docker.png" width="70" height="70">|
->>>>>>> 18dbdd053dacb506e3c7639bf599d9eb290872f1
+|<img src="img/Nginx.svg" width="70" height="70">|<img src="img/Jenkins.png" width="70" height="70">|<img src="img/AWS EC2.jpg" width="70" height="70">|<img src="img/Docker.png" width="70" height="70">|
 |:---:|:---:|:---:|:---:|
 |NGiNX|Jenkins|AWS EC2|Docker|
 
